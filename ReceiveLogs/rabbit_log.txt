@@ -1,0 +1,5 @@
+ [*] Waiting for logs.
+# => To exit press ENTER
+ [x] Received { casca de laranja 12131321312 }
+ [x] Received { name: antonio }
+ [x] Received Hello World

@@ -1,0 +1,11 @@
+E:\Some Code\csharp_rabbit\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+E:\Some Code\csharp_rabbit\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+E:\Some Code\csharp_rabbit\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+E:\Some Code\csharp_rabbit\Send\bin\Debug\netcoreapp2.1\Send.dll
+E:\Some Code\csharp_rabbit\Send\bin\Debug\netcoreapp2.1\Send.pdb
+E:\Some Code\csharp_rabbit\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+E:\Some Code\csharp_rabbit\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+E:\Some Code\csharp_rabbit\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+E:\Some Code\csharp_rabbit\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+E:\Some Code\csharp_rabbit\Send\obj\Debug\netcoreapp2.1\Send.dll
+E:\Some Code\csharp_rabbit\Send\obj\Debug\netcoreapp2.1\Send.pdb

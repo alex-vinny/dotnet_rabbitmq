@@ -1,0 +1,11 @@
+E:\Some Code\csharp_rabbit\EmitLogs\bin\Debug\netcoreapp2.1\EmitLogs.deps.json
+E:\Some Code\csharp_rabbit\EmitLogs\bin\Debug\netcoreapp2.1\EmitLogs.runtimeconfig.json
+E:\Some Code\csharp_rabbit\EmitLogs\bin\Debug\netcoreapp2.1\EmitLogs.runtimeconfig.dev.json
+E:\Some Code\csharp_rabbit\EmitLogs\bin\Debug\netcoreapp2.1\EmitLogs.dll
+E:\Some Code\csharp_rabbit\EmitLogs\bin\Debug\netcoreapp2.1\EmitLogs.pdb
+E:\Some Code\csharp_rabbit\EmitLogs\obj\Debug\netcoreapp2.1\EmitLogs.csprojAssemblyReference.cache
+E:\Some Code\csharp_rabbit\EmitLogs\obj\Debug\netcoreapp2.1\EmitLogs.csproj.CoreCompileInputs.cache
+E:\Some Code\csharp_rabbit\EmitLogs\obj\Debug\netcoreapp2.1\EmitLogs.AssemblyInfoInputs.cache
+E:\Some Code\csharp_rabbit\EmitLogs\obj\Debug\netcoreapp2.1\EmitLogs.AssemblyInfo.cs
+E:\Some Code\csharp_rabbit\EmitLogs\obj\Debug\netcoreapp2.1\EmitLogs.dll
+E:\Some Code\csharp_rabbit\EmitLogs\obj\Debug\netcoreapp2.1\EmitLogs.pdb

@@ -1,0 +1,11 @@
+E:\Some Code\csharp_rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+E:\Some Code\csharp_rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+E:\Some Code\csharp_rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+E:\Some Code\csharp_rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+E:\Some Code\csharp_rabbit\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+E:\Some Code\csharp_rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+E:\Some Code\csharp_rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+E:\Some Code\csharp_rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+E:\Some Code\csharp_rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+E:\Some Code\csharp_rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+E:\Some Code\csharp_rabbit\Receive\obj\Debug\netcoreapp2.1\Receive.pdb

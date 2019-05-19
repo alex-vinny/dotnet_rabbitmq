@@ -1,0 +1,5 @@
+ [*] Waiting for messages.
+# => To exit press ENTER
+ [x] Received 'error':'Run. Run. Or it will explode'
+ [x] Received 'error':'Crash!! system Go Down!'
+ [x] Received 'warning':'Crash!! system Go Down!'
