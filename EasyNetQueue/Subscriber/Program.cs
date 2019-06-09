@@ -1,7 +1,4 @@
 ﻿using System;
-using Messages;
-using EasyNetQ;
-using EasyNetQ.Logging;
 
 namespace Subscriber
 {
@@ -9,22 +6,11 @@ namespace Subscriber
     {
         static void Main(string[] args)
         {
-            LogProvider.SetCurrentLogProvider(ConsoleLogProvider.Instance);
-            
-            using (var bus = RabbitHutch.CreateBus("host=localhost"))
-            {
-                bus.Subscribe<TextMessage>("test", HandleTextMessage);
-                
-                Console.WriteLine("Listening for messages. Hit <return> to quit.");
-                Console.ReadLine();
-            }
-        }
+            var subscriber = new SomeSubscriber();
+            //subscriber.Start();
 
-        static void HandleTextMessage(TextMessage textMessage)
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Got message: {0}", textMessage.Text);
-            Console.ResetColor();
+            var client = new SomeRequester();
+            client.Start();
         }
     }
 }
