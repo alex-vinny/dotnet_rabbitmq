@@ -1,6 +1,7 @@
 ﻿using System;
 using Messages;
 using EasyNetQ;
+using EasyNetQ.Logging;
 
 namespace Subscriber
 {
@@ -8,13 +9,15 @@ namespace Subscriber
     {
         static void Main(string[] args)
         {
+            LogProvider.SetCurrentLogProvider(ConsoleLogProvider.Instance);
+            
             using (var bus = RabbitHutch.CreateBus("host=localhost"))
             {
                 bus.Subscribe<TextMessage>("test", HandleTextMessage);
+                
+                Console.WriteLine("Listening for messages. Hit <return> to quit.");
+                Console.ReadLine();
             }
-
-            Console.WriteLine("Listening for messages. Hit <return> to quit.");
-            Console.ReadLine();
         }
 
         static void HandleTextMessage(TextMessage textMessage)

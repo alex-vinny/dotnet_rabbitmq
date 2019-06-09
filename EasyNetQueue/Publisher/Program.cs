@@ -1,6 +1,7 @@
 ﻿using System;
 using Messages;
 using EasyNetQ;
+using EasyNetQ.Logging;
 
 namespace Publisher
 {
@@ -8,6 +9,8 @@ namespace Publisher
     {
         static void Main(string[] args)
         {
+            LogProvider.SetCurrentLogProvider(ConsoleLogProvider.Instance);
+
             using (var bus = RabbitHutch.CreateBus("host=localhost"))
             {
                 var input ="";
